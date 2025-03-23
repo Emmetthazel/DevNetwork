@@ -1,10 +1,10 @@
 # DevNetwork
-# Cahier des Charges pour le Projet DevSearch
+# Cahier des Charges pour le Projet DevNetwork
 
 
 
 ## 1. Contexte et Définition du Projet
-Le projet **DevSearch** est une plateforme web destinée aux développeurs pour partager leurs projets, collaborer, évaluer le travail des autres et rechercher des profils de développeurs. Actuellement, les développeurs manquent d'une plateforme centralisée pour partager leurs réalisations, échanger des idées et établir des connexions professionnelles. DevSearch vise à combler ce besoin en offrant un espace interactif et collaboratif.
+Le projet **DevNetwork** est une plateforme web destinée aux développeurs pour partager leurs projets, collaborer, évaluer le travail des autres et rechercher des profils de développeurs. Actuellement, les développeurs manquent d'une plateforme centralisée pour partager leurs réalisations, échanger des idées et établir des connexions professionnelles. DevNetwork vise à combler ce besoin en offrant un espace interactif et collaboratif.
 
 ### Problématique :
 - **Manque de visibilité** pour les projets personnels des développeurs.
