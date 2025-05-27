@@ -108,3 +108,7 @@ Les parties prenantes du projet sont :
 * 3 - cd into project "cd devNetwork"
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
+
+# **Demo sur PythonAnyWhere**
+
+* https://anaruz.pythonanywhere.com/
